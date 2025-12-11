@@ -14,7 +14,6 @@ It includes:
 
 * A fully structured relational database
 * Tables for customers, accounts, and transactions
-* Constraints (PRIMARY KEY, FOREIGN KEY)
 * SQL scripts that insert sample banking data
 * Query exercises and solutions
 * Use of joins, aggregations, sorting, filtering, and subqueries
